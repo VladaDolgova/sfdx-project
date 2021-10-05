@@ -37,5 +37,8 @@
     "**/{aura,lwc}/**": [
       "eslint"
     ]
+  },
+  "dependencies": {
+    "salesforcedx": "^52.0.0"
   }
 }
